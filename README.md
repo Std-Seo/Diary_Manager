@@ -1,4 +1,4 @@
-# Diary_Manager
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Diary%20Manager&fontSize=40)
 http://www.gmsgondr.net/lecture/1/45 사이트를 참고하여 만든 JavaFX 일정관리 프로그램입니다.
 *문제가 될 시 코드 내리겠습니다!*
 
